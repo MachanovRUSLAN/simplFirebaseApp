@@ -1,0 +1,32 @@
+.signUp,
+.signin {
+  display: flex;
+  width: 400px;
+  flex-direction: column;
+  border: 1px solid red;
+  margin: 50px auto;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+form input {
+  margin-top: 10px;
+  height: 30px;
+  padding: 5px;
+}
+.submit {
+  width: 200px;
+  margin: 20px auto;
+  background-color: rgb(59, 178, 59);
+  color: #fff;
+  font-weight: 600;
+}
+.submitin {
+  width: 200px;
+  margin: 20px auto;
+  background-color: rgb(235, 27, 159);
+  color: #fff;
+  font-weight: 600;
+}
